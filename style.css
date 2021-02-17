@@ -912,6 +912,9 @@ h4 {
 }
 
 @media (max-width: 767px) {
+        .chouette{
+        margin: 0%;
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;

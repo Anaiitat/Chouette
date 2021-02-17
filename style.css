@@ -26,6 +26,10 @@ body {
     font-size: 25px;
 }
 
+.keywords{
+    display: none;
+}
+
 
 a,
 button {

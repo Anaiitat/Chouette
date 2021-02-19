@@ -4,6 +4,10 @@ body {
     background: #FFF;
     overflow-x: hidden;
 }
+.border{
+    background-color: #f3976c7a ;
+}
+
 .commentaire{
     font-size: 20px;
     font-style: italic;
@@ -698,7 +702,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 400px;
     margin: auto auto auto auto;
 }
 
